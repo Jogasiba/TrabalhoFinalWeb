@@ -1,0 +1,26 @@
+.form-api{
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.form-control{
+    text-align: center;
+}
+
+td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+th{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.form-group{
+    justify-content: center;
+}
